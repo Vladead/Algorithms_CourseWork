@@ -1,0 +1,6 @@
+S A 9
+S B 8
+B S 7
+A B 6
+A T 5
+B T 4

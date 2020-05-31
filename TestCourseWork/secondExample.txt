@@ -1,0 +1,8 @@
+S A 6
+S D 23
+A B 112
+A D 7
+D C 23
+B C 1
+B T 8
+C T 23
